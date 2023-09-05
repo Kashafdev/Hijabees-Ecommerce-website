@@ -1,0 +1,59 @@
+/* product-card.css */
+
+.product-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px; /* Add some gap between cards */
+}
+
+.product-card {
+  flex: 0 0 calc(33.33% - 20px); /* Adjust the width calculation */
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add box shadow for animation */
+  text-align: center;
+  background-color: #fff;
+  transition: transform 0.5s ease; /* Add transform animation */
+}
+
+.product-card:hover {
+  transform: translateY(-5px); /* Add a subtle hover animation */
+}
+
+.product-card img {
+  max-width: 100%; /* Ensure images are responsive */
+  height: auto; /* Allow images to maintain aspect ratio */
+  border-radius: 8px;
+}
+
+.product-card h3 {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.product-card p {
+  font-size: 14px;
+  color: #888;
+}
+
+.btn3 {
+  width: 100%;
+  height: 33px;
+  background: black;
+  color: #fff;
+  border: 2px solid black;
+  border-radius: 8px;
+  transition: background-color 0.5s ease, color 0.5s ease; /* Add button animation */
+  cursor: pointer;
+  font-size: 14px; /* Adjust font size for responsiveness */
+  font-weight: bold; /* Add font weight for emphasis */
+}
+
+.btn3:hover {
+  background-color: #fff;
+  color: black;
+  border-radius: 8px;
+}

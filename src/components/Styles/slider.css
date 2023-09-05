@@ -1,0 +1,36 @@
+/* Products.css */
+body {
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+.sidebar {
+  width: 20%; /* Adjust the width as needed */
+  background-color: #f4f4f4;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar button {
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar button.active {
+  background-color: black;
+  color: #fff;
+}
+
+/* Media query for responsiveness */
+@media (max-width: 768px) {
+  .sidebar {
+    width: 100%; /* Change width to 100% on smaller screens */
+  }
+
+  .sidebar button {
+    padding: 8px; /* Adjust padding for smaller buttons */
+  }
+}

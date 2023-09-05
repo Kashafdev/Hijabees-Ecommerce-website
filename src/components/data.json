@@ -1,0 +1,344 @@
+{
+    "AbayaCollection": [
+        {
+          "id": "1",
+          "img": "/assets/images/Abayacard5.webp",
+          "title": "Elegant Black Abaya",
+          "price": "$49.99",
+          "color": "Black",
+          "size": "S, M, L",
+          "material": "Polyester"
+        },
+        {
+          "id": "2",
+          "img": "/assets/images/Abayacard2.webp",
+          "title": "Classic Navy Blue Abaya",
+          "price": "$39.99",
+          "color": "Navy Blue",
+          "size": "M, L, XL",
+          "material": "Cotton"
+        },
+        {
+          "id": "3",
+          "img": "/assets/images/Abayacard3.webp",
+          "title": "Chic Grey Abaya",
+          "price": "$45.99",
+          "color": "Grey",
+          "size": "S, M, L",
+          "material": "Linen"
+        },
+        {
+          "id": "4",
+          "img": "/assets/images/Abayacard4.webp",
+          "title": "Embroidered White Abaya",
+          "price": "$55.99",
+          "color": "White",
+          "size": "S, M, L",
+          "material": "Polyester"
+        },
+        {
+          "id": "5",
+          "img": "/assets/images/Abayacard1.webp",
+          "title": "Printed Floral Abaya",
+          "price": "$42.99",
+          "color": "Multicolor",
+          "size": "M, L, XL",
+          "material": "Chiffon"
+        },
+        {
+          "id": "6",
+          "img": "/assets/images/Abayacard6.webp",
+          "title": "Graceful Maroon Abaya",
+          "price": "$47.99",
+          "color": "Maroon",
+          "size": "S, M, L",
+          "material": "Silk"
+        },
+        {
+          "id": "7",
+          "img": "/assets/images/Abayacard7.webp",
+          "title": "Golden Embroidered Abaya",
+          "price": "$59.99",
+          "color": "Golden",
+          "size": "S, M, L, XL",
+          "material": "Polyester"
+        },
+        {
+          "id": "8",
+          "img": "/assets/images/Abayacard8.webp",
+          "title": "Elegant Red Abaya",
+          "price": "$49.99",
+          "color": "Red",
+          "size": "M, L, XL",
+          "material": "Chiffon"
+        },
+        {
+          "id": "9",
+          "img": "/assets/images/Abayacard9.webp",
+          "title": "Black Lace Abaya",
+          "price": "$44.99",
+          "color": "Black",
+          "size": "S, M, L",
+          "material": "Lace"
+        }
+        
+      ],
+      
+    "HijabCollection": [
+        {
+          "id": "1",
+          "img": "/assets/images/hijabcard1.webp",
+          "title": "Silk Floral Hijab",
+          "price": "$19.99",
+          "color": "Blush Pink",
+          "size": "One Size",
+          "material": "Silk"
+        },
+        {
+          "id": "2",
+          "img": "/assets/images/hijabcard2.webp",
+          "title": "Cotton Printed Hijab",
+          "price": "$14.99",
+          "color": "Blue",
+          "size": "One Size",
+          "material": "Cotton"
+        },
+        {
+          "id": "3",
+          "img": "/assets/images/hijabcard3.webp",
+          "title": "Lace Edge Hijab",
+          "price": "$17.99",
+          "color": "White",
+          "size": "One Size",
+          "material": "Polyester"
+        },
+        {
+          "id": "4",
+          "img": "/assets/images/hijabcard4.webp",
+          "title": "Embroidered Hijab",
+          "price": "$21.99",
+          "color": "Black",
+          "size": "One Size",
+          "material": "Chiffon"
+        },
+        {
+          "id": "5",
+          "img": "/assets/images/hijabcard5.webp",
+          "title": "Patterned Silk Hijab",
+          "price": "$22.99",
+          "color": "Multicolor",
+          "size": "One Size",
+          "material": "Silk"
+        },
+        {
+          "id": "6",
+          "img": "/assets/images/hijabcard6.webp",
+          "title": "Striped Cotton Hijab",
+          "price": "$16.99",
+          "color": "Green",
+          "size": "One Size",
+          "material": "Cotton"
+        },
+        {
+          "id": "7",
+          "img": "/assets/images/hijabcard7.webp",
+          "title": "Golden Sequin Hijab",
+          "price": "$24.99",
+          "color": "Gold",
+          "size": "One Size",
+          "material": "Polyester"
+        },
+        {
+          "id": "8",
+          "img": "/assets/images/hijabcard8.webp",
+          "title": "Floral Print Silk Hijab",
+          "price": "$19.99",
+          "color": "Pink",
+          "size": "One Size",
+          "material": "Silk"
+        },
+        {
+          "id": "9",
+          "img": "/assets/images/hijabcard9.webp",
+          "title": "Patterned Lace Hijab",
+          "price": "$17.99",
+          "color": "Blue",
+          "size": "One Size",
+          "material": "Lace"
+        }
+        
+      ],
+      
+      "ChadarCollection": [
+        {
+          "id": "1",
+          "img": "/assets/images/Chadarcard7.webp",
+          "title": "Embroidered Chadar",
+          "price": "$24.99",
+          "color": "White",
+          "size": "Regular",
+          "material": "Chiffon"
+        },
+        {
+          "id": "2",
+          "img": "/assets/images/Chadarcard8.jpg",
+          "title": "Printed Floral Chadar",
+          "price": "$19.99",
+          "color": "Multicolor",
+          "size": "Regular",
+          "material": "Cotton"
+        },
+        {
+          "id": "3",
+          "img": "/assets/images/Chadarcard9.webp",
+          "title": "Plain Black Chadar",
+          "price": "$18.99",
+          "color": "Black",
+          "size": "Regular",
+          "material": "Polyester"
+        },
+        {
+          "id": "4",
+          "img": "/assets/images/Chadarcard4.webp",
+          "title": "Embroidered Silk Chadar",
+          "price": "$29.99",
+          "color": "Gold",
+          "size": "Regular",
+          "material": "Silk"
+        },
+        {
+          "id": "5",
+          "img": "/assets/images/Chadarcard5.webp",
+          "title": "Tassel Fringe Chadar",
+          "price": "$21.99",
+          "color": "Blue",
+          "size": "Regular",
+          "material": "Chiffon"
+        },
+        {
+          "id": "6",
+          "img": "/assets/images/Chadarcard6.webp",
+          "title": "Embroidered Velvet Chadar",
+          "price": "$34.99",
+          "color": "Burgundy",
+          "size": "Regular",
+          "material": "Velvet"
+        },
+        {
+          "id": "7",
+          "img": "/assets/images/Chadarcard1.webp",
+          "title": "Floral Pattern Chadar",
+          "price": "$23.99",
+          "color": "Pink",
+          "size": "Regular",
+          "material": "Cotton"
+        },
+        {
+          "id": "8",
+          "img": "/assets/images/Chadarcard2.jpg",
+          "title": "Embroidered White Chadar",
+          "price": "$27.99",
+          "color": "White/Gold",
+          "size": "Regular",
+          "material": "Silk"
+        },
+        {
+          "id": "9",
+          "img": "/assets/images/Chadarcard3.jpg",
+          "title": "Patterned Lace Chadar",
+          "price": "$19.99",
+          "color": "Beige",
+          "size": "Regular",
+          "material": "Lace"
+        }
+        
+      ],
+      
+      "HijabCapCollection": [
+        {
+          "id": "1",
+          "img": "/assets/images/HijabCapcard1.webp",
+          "title": "Lace Hijab Cap",
+          "price": "$9.99",
+          "color": "Black",
+          "size": "One Size",
+          "material": "Cotton"
+        },
+        {
+          "id": "2",
+          "img": "/assets/images/HijabCapcard2.webp",
+          "title": "Turban Style Hijab Cap",
+          "price": "$12.99",
+          "color": "Beige",
+          "size": "One Size",
+          "material": "Jersey"
+        },
+        {
+          "id": "3",
+          "img": "/assets/images/HijabCapcard3.webp",
+          "title": "Floral Printed Hijab Cap",
+          "price": "$8.99",
+          "color": "Blue",
+          "size": "One Size",
+          "material": "Polyester"
+        },
+        {
+          "id": "4",
+          "img": "/assets/images/HijabCapcard4.webp",
+          "title": "Plain Cotton Hijab Cap",
+          "price": "$7.99",
+          "color": "White",
+          "size": "One Size",
+          "material": "Cotton"
+        },
+        {
+          "id": "5",
+          "img": "/assets/images/HijabCapcard5.webp",
+          "title": "Sequin Embellished Hijab Cap",
+          "price": "$14.99",
+          "color": "Silver",
+          "size": "One Size",
+          "material": "Chiffon"
+        },
+        {
+          "id": "6",
+          "img": "/assets/images/HijabCapcard6.webp",
+          "title": "Velvet Padded Hijab Cap",
+          "price": "$11.99",
+          "color": "Burgundy",
+          "size": "One Size",
+          "material": "Velvet"
+        },
+        {
+          "id": "7",
+          "img": "/assets/images/HijabCapcard7.webp",
+          "title": "Ruffled Lace Hijab Cap",
+          "price": "$10.99",
+          "color": "Pink",
+          "size": "One Size",
+          "material": "Lace"
+        },
+        {
+          "id": "8",
+          "img": "/assets/images/HijabCapcard8.webp",
+          "title": "Embroidered Hijab Cap",
+          "price": "$12.99",
+          "color": "White",
+          "size": "One Size",
+          "material": "Polyester"
+        },
+        {
+          "id": "9",
+          "img": "/assets/images/HijabCapcard9.webp",
+          "title": "Denim Hijab Cap",
+          "price": "$13.99",
+          "color": "Blue",
+          "size": "One Size",
+          "material": "Denim"
+        }
+        
+      ]
+      
+
+  }
+  

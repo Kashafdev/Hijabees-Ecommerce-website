@@ -1,0 +1,85 @@
+/* Global styles */
+
+body {
+    /* font-family: Arial, sans-serif; */
+  }
+  
+  /* TestimonialSection styles */
+  
+  .wrapper {
+    position: relative;
+  }
+  
+  .image-wrapper {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    /* Add other background image styles */
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 15px;
+  }
+  
+  .display-5 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+  }
+  
+  .swiper-container {
+    position: relative;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+    width: calc(100% / 3); /* Set each card to be 33.33% wide */
+    box-sizing: border-box;
+    vertical-align: top;
+  }
+  
+  .card {
+    border: none;
+    background: linear-gradient(to bottom, #f9f9f9, #e3e3e3); /* Add gradient background */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .ratings {
+    /* Add styles for ratings if needed */
+  }
+  
+  blockquote {
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    color: #333;
+  }
+  
+  .info {
+    padding: 10px 0;
+  }
+  
+  h5 {
+    font-size: 18px;
+    margin: 0;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 14px;
+    margin: 0;
+    color: #888;
+  }

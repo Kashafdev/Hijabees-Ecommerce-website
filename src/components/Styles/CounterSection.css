@@ -1,0 +1,26 @@
+/* CounterSection.css */
+.icon-svg {
+  width: 90px; /* Adjust the size of the icons as needed */
+  height: 90px;
+  margin-bottom: 10px; /* Add margin-bottom to the icons */
+}
+
+.counter-wrapper {
+  justify-content: center;
+}
+
+.counter-wrapper .col-md-3 {
+  text-align: center;
+}
+
+.counter {
+  font-size: 36px; /* Adjust the font size as needed */
+  margin: 10px 0;
+  margin-bottom: 10px; /* Add margin-bottom to the counter */
+}
+
+p {
+  font-size: 18px; /* Adjust the font size as needed */
+  margin: 0;
+  margin-bottom: 40px; /* Add margin-bottom to the paragraphs */
+}
